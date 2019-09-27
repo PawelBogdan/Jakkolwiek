@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Tarnów jest fajny (po h@ju)
+=======
+Tarnów jest fajny
+Dominik potwierdza
+dksd;l;lcvxlxczkcxvj
+>>>>>>> 54008a9b6def6993a92eb1e15fec2bb1c04b796b
 hahaha master tu
 hehehe na G1
+
